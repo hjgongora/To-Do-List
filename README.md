@@ -1,2 +1,2 @@
-# To-Do-List
+# Movie List
 Allows users to create an organized movie list.
